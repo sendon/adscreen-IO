@@ -1,2 +1,3 @@
 # screen-IO
-remote screen ad manager
+
+Script for managing multimedia content in an advert network with remote screens connected to the cloud. 
