@@ -1,0 +1,5 @@
+<?php
+/**
+ * Bootstrap database creation
+ *
+ */
