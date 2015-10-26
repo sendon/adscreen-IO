@@ -3,6 +3,8 @@
 *  DB Configuration 
 */
 
+error_reporting(0); //Default 0. Enable reporting with 1
+
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -15,3 +17,6 @@ if (!$db_connection) {
 } else {
 	echo "DB Connection stablished";
 }
+
+
+
